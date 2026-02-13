@@ -1,0 +1,17 @@
+# Projects (each lives in its own repo)
+Support Agent/
+claude-sc2-hooks/
+
+# Claude Code
+.claude/
+
+# Windows artifacts
+nul
+
+# OS / editor files
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.swp
+*.swo
+*~
